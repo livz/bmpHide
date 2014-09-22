@@ -16,7 +16,7 @@ WIDTH = 256
 HEIGHT = 256
 
 def usage(progName):
-	print "Convert text file to a 24-bit bitmap image."
+	print "Convert any file into a pixel array and store in a 24-bit bitmap image."
 	print "Usage: %s <in-file> <out-file>" % progName
 	sys.exit()
 	
