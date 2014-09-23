@@ -144,7 +144,7 @@ We can embed inside a BMP a complex batch script which *dumps a base64 encoded b
 
 In this last case, the generated image looks like this:
 
-![Not a stereogram!](http://cyberinc.co.uk/wp-content/uploads/2014/09/out.bmp)
+![](http://cyberinc.co.uk/wp-content/uploads/2014/09/out.png)
 Project content
 ---------------
 
